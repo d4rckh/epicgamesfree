@@ -4,7 +4,7 @@ Epic Games Free Game Promotion Parser
 
 # Output sample
 
-````
+```
 Epic Games Free Game Promotion Parser by d4rckh.
 ------------------------------
 The Long Dark: The Long Dark
